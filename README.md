@@ -33,5 +33,7 @@ The details of the classes provided in the skeleton are presented below:
 
 # Result
 ![alt text](https://github.com/HusseinJaber20/Code-Coverage-Analysis-using-ASM/blob/master/ASM%20Project/ANSWERS%20CHECK/BasicBlockEdges.PNG?raw=true)
+-------------------------------------------------------------------------------------------------------------------------------------------------
 ![alt text](https://github.com/HusseinJaber20/Code-Coverage-Analysis-using-ASM/blob/master/ASM%20Project/ANSWERS%20CHECK/MethodCalls.PNG?raw=true)
+-------------------------------------------------------------------------------------------------------------------------------------------------
 ![alt text](https://github.com/HusseinJaber20/Code-Coverage-Analysis-using-ASM/blob/master/ASM%20Project/ANSWERS%20CHECK/Percentages.PNG)
