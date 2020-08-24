@@ -29,7 +29,17 @@ The details of the classes provided in the skeleton are presented below:
 
 6) CoverageHelper.java: A helper class that is used by the profiler to keep track of the covered program elements
 
-7) BasicBlockGeneratorMethodVisitor.java: This class is used to identify the basic blocks of each method. 
+7) BasicBlockGeneratorMethodVisitor.java: This class is used to identify the basic blocks of each method.
+
+# Tools
+
+1) Eclipse IDE 
+
+2) Added to the classpath :
+  -JUnit
+  -asm
+  -asm-util
+  -asm-tree
 
 # Result
 ![alt text](https://github.com/HusseinJaber20/Code-Coverage-Analysis-using-ASM/blob/master/ASM%20Project/ANSWERS%20CHECK/BasicBlockEdges.PNG?raw=true)
