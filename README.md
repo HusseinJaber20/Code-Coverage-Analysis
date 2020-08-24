@@ -6,9 +6,13 @@ can be used for this purpose. In this project, we consider the following: method
 # Description
 I was provided with a skeleton to perform the 4 types of coverage, a class to be tested, and 4 JUnit tests to validate my code. I was required to complete the missing parts of
 InstrumenterClassVisitor.java and Profiler.java (look for “INSERT CODE HERE”). In addition, I had to:
+
 1)	Display the dynamic call graph as a directed graph whose edges are labeled with the counts of each call. To do that, I was asked to use the graph description language DOT (https://www.graphviz.org/doc/info/lang.html). In such case, you can run the DOT code online to generate the graph (e.g. http://www.webgraphviz.com/).
+
 2)	Print the percentage of the methods that were covered
+
 3)	Print the percentage of the basic-blocks that were covered
+
 4)	Display the dynamic CFG. The edges should be labeled with the counts of edge executions.
 
 The details of the classes provided in the skeleton are presented below:
@@ -28,4 +32,4 @@ The details of the classes provided in the skeleton are presented below:
 7) BasicBlockGeneratorMethodVisitor.java: This class is used to identify the basic blocks of each method. 
 
 # Result
-[alt text](https://github.com/HusseinJaber20/Code-Coverage-Analysis-using-ASM/blob/master/ASM%20Project/ANSWERS%20CHECK/BasicBlockEdges.PNG?raw=true)
+![alt text](https://github.com/HusseinJaber20/Code-Coverage-Analysis-using-ASM/blob/master/ASM%20Project/ANSWERS%20CHECK/BasicBlockEdges.PNG?raw=true)
